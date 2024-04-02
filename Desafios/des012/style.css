@@ -51,6 +51,7 @@ main pre{
     background-attachment: fixed;
     padding-top: 70px;
     margin: 30px 30px 30px 0px;
+    box-shadow: inset -4px 4px 10px rgba(0, 0, 0, 0.486)
 }
 
 #girasol pre{
@@ -68,6 +69,7 @@ main pre{
     background-attachment: fixed;
     padding-top: 70px;
     margin: 30px 30px 30px 0px;
+    box-shadow: inset -4px 4px 10px rgba(0, 0, 0, 0.486)
 }
 
 #folhas pre{
@@ -75,4 +77,20 @@ main pre{
     padding: 50px 50px 50px 8px;
     color: white;
     margin: 30px 30px 30px 30px; 
+}
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+footer a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
 }
