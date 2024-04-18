@@ -4,7 +4,7 @@
 }
 body{
     position: relative;
-    background-image: url("/imagens/fundo-madeira.jpg");
+    background-image: url("../imagens/fundo-madeira.jpg");
     height: 97vh;
     width: 97vw;
     background-size: cover;
@@ -19,7 +19,7 @@ div#cel{
     height: 655px;
     width: 360px;
     margin: 0px;
-    background-image: url("/imagens/frame-iphone.png");
+    background-image: url("../imagens/frame-iphone.png");
     background-size: contain;
     background-position: center top;
     background-repeat: no-repeat;
@@ -54,5 +54,4 @@ ul{
     list-style: none;
     padding: 7px;
     text-align: right;
-
 }
